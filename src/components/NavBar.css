@@ -1,0 +1,57 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.tamImg{
+  width: 100px;
+}
+.imgTam{
+  width: 100px;
+}
+
+.navbar {
+  background-color: #fc9104;
+  color: #fff;
+  padding: 10px 20px;
+
+}
+
+.nav-ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-list-item {
+  margin: 20px;
+}
+
+.nav-href {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s;
+}
+
+.nav-href:hover {
+  color: rgb(4, 247, 166);
+}
+
+.logo {
+  padding: 10px;
+}
+
+.logo-img {
+  max-width: 100px;
+
+}
+
+.cart-img {
+  max-width: 30px;
+  cursor: pointer;
+}
