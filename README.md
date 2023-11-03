@@ -1,3 +1,3 @@
-# Pre-entrega 1 - Erik Hidalgo
+# Pre-entrega 1 - Florencia Chamorro
 
-Repositorio para Ecommerce de fruticola
+Repositorio para Ecommerce de danza
